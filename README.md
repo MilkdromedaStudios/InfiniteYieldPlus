@@ -1,7 +1,5 @@
 <img width="1024" height="392" alt="InfiniteYield+RefinedLogo" src="https://github.com/user-attachments/assets/590e4d51-f262-4b16-92a6-0a2225087508" />
 
-# Infinite Yield +
-
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/MilkdromedaStudios/infiniteyieldplus/refs/heads/master/Files/InfiniteYieldPlus.lua"))()
 ```
