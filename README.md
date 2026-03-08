@@ -1,4 +1,4 @@
-<img width="1024" height="1024" alt="InfiniteYield+RefinedLogo" src="https://github.com/user-attachments/assets/4a61a01c-310e-46d1-a34a-f1de72373b39" />
+<img width="1024" height="392" alt="InfiniteYield+RefinedLogo" src="https://github.com/user-attachments/assets/590e4d51-f262-4b16-92a6-0a2225087508" />
 
 # Infinite Yield +
 
