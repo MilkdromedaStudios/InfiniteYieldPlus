@@ -1,3 +1,5 @@
+<img width="1024" height="1024" alt="InfiniteYield+RefinedLogo" src="https://github.com/user-attachments/assets/4a61a01c-310e-46d1-a34a-f1de72373b39" />
+
 # Infinite Yield +
 
 ```lua
@@ -8,17 +10,17 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/MilkdromedaStudios/in
 New UI, round corners
 We added a new cmd and button that allows you to download the game's .rblx file
 
-# Usage
+### Usage
 Press the download button and go to your executor's workspace to find .rblx. You can find the workspace in the executer's files. 
 
-# Dependencies
+### Dependencies
 Your executor needs to support the saveinstance() function. 
 Try [Xeno](https://xeno.now/), it is supported and have alot of features withought having limited support. No association is made with Xeno in any way. 
 
-
- - Currently 400 commands from fork
- - Open Source
- - 8+ years of development from a fork
+## Additionally
+ - Currently, 400 commands from the original fork
+ - Open Source, Under Mit License
+ - 8+ years of development from the original fork
 
 ## Developers
 
